@@ -8,7 +8,7 @@ const chalk =  require('chalk');
 // constructor classes
 const employee =  require('./constr/employee');
 const role = require('./constr/role');
-const departement = require('./constr/department');
+const department = require('./constr/department');
 
 //* Arrays
 let managerArray = [];

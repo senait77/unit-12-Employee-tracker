@@ -17,7 +17,7 @@ In these Project the most difficult concept to get down was ensuring to design t
 
 ## WALK-THROUGH VIDEO
 
-<img src="/DemoImgs/EmployeeManagerMySQLGif.gif?raw=true">
+[wall-through](https://www.youtube.com/watch?v=g2r3anMg4gg&t=58s)
 
 ## Table of Contents
 
