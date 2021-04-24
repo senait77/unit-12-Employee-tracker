@@ -21,9 +21,9 @@ let roleAndIDArray = [];
 
 
 //*Intro Inquirer Question
-const introQ = [
+const introQ = 
 	{
-		type: 'rawlist',
+		type: 'list',
 		message: 'What Would You Like To Do?',
 		name: 'queryInto',
 		choices: [
@@ -43,12 +43,12 @@ const introQ = [
 			'View Total Utalized Budget Of A Department',
 			'Exit Application',
 		],
-	},
-];
+	}
+
 
 const connection = mysql.createConnection({
     host: 'localhost',
-    port: 3360,
+    
     user: 'root',
     password: 'password',
     database: 'e_track',
