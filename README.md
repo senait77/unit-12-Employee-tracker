@@ -1,7 +1,4 @@
-
-# Project 12: MySQL Employee Tracker
-
-Unit 12 MySQL Homework: Employee Tracker
+## Project 12: MySQL Employee Tracker
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,7 +14,7 @@ In these Project the most difficult concept to get down was ensuring to design t
 
 ## WALK-THROUGH VIDEO
 
-[wall-through](https://www.youtube.com/watch?v=g2r3anMg4gg&t=58s)
+[Wall-Through-Video](https://www.youtube.com/watch?v=g2r3anMg4gg&t=58s)
 
 ## Table of Contents
 
