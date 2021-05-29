@@ -56,7 +56,7 @@ NOTE: THE chalk npm package is out of our modules and is toltlly new for me, I g
 
     								MIT License
 
-    		Unit 12 MySQL Homework: Employee Tracker   Copyright (C) 2020 Jeffrey Quittman
+    		Unit 12 MySQL Homework: Employee Tracker   Copyright (C) 2021 Senait T Gerezgiher
 
     		Permission is hereby granted, free of charge, to any person obtaining a copy
     		of this software and associated documentation files (the "Software"), to deal
